@@ -18,5 +18,5 @@
 
 # Utilities:
 - Python
-- Biopython
+- Biopython Library
 - Matplotlib
