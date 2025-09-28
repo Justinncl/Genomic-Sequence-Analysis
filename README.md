@@ -1,4 +1,4 @@
-# Features:
+## Features:
 - Sequence Manipulation
 - Calculate total sequence length
 - Find the first occurrence of start codon (TAC)
@@ -16,7 +16,10 @@
 - Global pairwise alignment with Needleman-Wunsch (globalxx)
 - Levenshtein distance calculation for similarity measurement
 
-# Utilities:
+## Software:
+- Visual Studio Code
+
+## Utilities:
 - Python
 - Biopython Library
 - Matplotlib
