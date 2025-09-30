@@ -16,6 +16,8 @@
 - Global pairwise alignment with Needleman-Wunsch (globalxx)
 - Levenshtein distance calculation for similarity measurement
 
+<br/>
+
 ## 🔧Utilities:
 - Visual Studio Code
 
