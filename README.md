@@ -1,4 +1,4 @@
-## Features:
+## 💡Features:
 - Sequence Manipulation
 - Calculate total sequence length
 - Find the first occurrence of start codon (TAC)
@@ -16,10 +16,16 @@
 - Global pairwise alignment with Needleman-Wunsch (globalxx)
 - Levenshtein distance calculation for similarity measurement
 
-## Software:
+## 🔧Utilities:
 - Visual Studio Code
 
-## Utilities:
+<br/>
+
+## ⌨️Languages:
 - Python
-- Biopython Library
-- Matplotlib
+  
+<br/>
+
+## 📖Library Requirements:
+In order to perform data preprocessing in the .ipynb file, first install the following library requirements.
+- Biopython
